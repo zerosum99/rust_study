@@ -1,0 +1,7 @@
+fn main() {
+   let mut i:i32 = 1;
+   let ref_i:&mut i32 = &mut i;
+   *ref_i = 2;
+   i = 3;
+   println!(" 변경 참조 2번 처리 "); 
+}
