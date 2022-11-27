@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e62972-b663-414c-9225-890ad8d3fbc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_cargo_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/hello_cargo_1-1cd810d1a6410c48/bin-hello_cargo_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/hello_cargo_1-1cd810d1a6410c48/bin-hello_cargo_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/hello_cargo_1-1cd810d1a6410c48/dep-bin-hello_cargo_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/hello_cargo_1-1cd810d1a6410c48/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.11x5m2ee6vgqqdw5.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.1cfhrvcjle6c406t.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.1ejkmdo8p9t7op1b.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.1hucv8eph3yymeg6.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.1r1ih5if5bny8nkn.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.22fsitzejcggdezy.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.26puanhnodagvgwt.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2897m6px6r3nvjh3.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2e4yihjde6jpdlxa.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2k8poddbioxspghd.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2ng23rfkmh59ph7z.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2rt3jd8ltxnh1cc5.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2tgyjc8i93jrf93s.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2y7kdvsdwb45grpv.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.2zkz87y1bofdx9zb.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.31zhct0bz7bseft7.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3202bizzteubsn5a.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.32am2xionq0nkxng.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3ecvlpaio811esrb.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3gsy1alxqqhqzai1.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3o1ng3uel5uh9aml.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3u8itw5pnyjs8ki0.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3vhg5h2di5i14kuu.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.3z0ocd1abilva7t6.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.45iwornpf8kksrda.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.4i4e2vrijfj5tqy2.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.4ihaehromtjlkeu7.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.4v0jfx0tnjbfbo6p.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.50i6iy2ragbn2dm2.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.526jx4xxo39nuqvl.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.54xm4xv4c691ygyi.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.56l4s6akx5sh8o5f.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.5aqtihnjvg00q1ka.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.5e4lqpfwfj8jbzwh.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.5f0cb0p5094zn7qs.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.bv5a30k31zxcokq.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.cshp5q8u7zu6oct.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.dayj9hc70tyj15u.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.fydlia6mkck3rto.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.qu4k9s84rn7nx2k.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.ws0qz7idii1v3cm.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/hello_cargo_1-1cd810d1a6410c48.x9gtngft7uthgs6.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/hello_cargo_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/hello_cargo_1.d" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="z470q53y" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2I53sZn968gQCx7hpQX43cD1FC3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package hello_cargo_1 --bin hello_cargo_1" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e62972-b663-414c-9225-890ad8d3fbc7" name="Changes" comment="" />
+      <created>1669457826525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669457826525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
