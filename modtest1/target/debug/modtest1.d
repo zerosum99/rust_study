@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/modtest1/target/debug/modtest1: /Users/a06411/Documents/GitHub/rust_study/modtest1/src/foo.rs /Users/a06411/Documents/GitHub/rust_study/modtest1/src/guu/mod.rs /Users/a06411/Documents/GitHub/rust_study/modtest1/src/guu/mod1.rs /Users/a06411/Documents/GitHub/rust_study/modtest1/src/main.rs

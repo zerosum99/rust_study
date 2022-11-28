@@ -1,3 +1,7 @@
+mod modtest;
+
+use crate::modtest::modtest::connect;
+
 fn main() {
     let mut s = String::from("hello");
     println!(" string {} ", s);
@@ -15,6 +19,8 @@ fn main() {
 
     let fw  = first_word(&ss);
     println!(" first word  ; {}", fw);
+
+    connect();
 }
 
 fn first_word(s: &String) -> usize {
