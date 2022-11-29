@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/format_test/target/debug/format_test: /Users/a06411/Documents/GitHub/rust_study/format_test/src/format.rs /Users/a06411/Documents/GitHub/rust_study/format_test/src/main.rs

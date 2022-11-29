@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/func_test/target/debug/func_test: /Users/a06411/Documents/GitHub/rust_study/func_test/src/func_mod.rs /Users/a06411/Documents/GitHub/rust_study/func_test/src/main.rs

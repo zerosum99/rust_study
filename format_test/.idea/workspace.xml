@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="379939c5-f55b-42e0-b10d-43e5ca84a5aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/format_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/format.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/format_test-632cc4e9085f0836/bin-format_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/format_test-632cc4e9085f0836/bin-format_test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/format_test-632cc4e9085f0836/dep-bin-format_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/format_test-632cc4e9085f0836/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.22sraew0vquncerq.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.2d0b5tgyawqlwpav.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.2ghk2hz5ags8aiyp.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.340r5mmzcxlzhn03.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.3sq88mfark6oaprt.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.3xg918svcqnhca7h.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.4c2yidf8gqtsmpm3.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.51jip59h4lds843y.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.9n9pjtlp2b1x12j.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/format_test-632cc4e9085f0836.egpbte14pg2574y.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/format_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/format_test.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_cargo_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello_cargo_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modtest1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modtest1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modtest1/src/guu/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../modtest1/src/guu/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phrases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phrases/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="mrtipge5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IBHYrCZXiKWB6LHHyqNnOavvY6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package format_test --bin format_test" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379939c5-f55b-42e0-b10d-43e5ca84a5aa" name="Changes" comment="" />
+      <created>1669648108795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669648108795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
