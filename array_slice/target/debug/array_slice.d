@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/array_slice/target/debug/array_slice: /Users/a06411/Documents/GitHub/rust_study/array_slice/src/array_slice.rs /Users/a06411/Documents/GitHub/rust_study/array_slice/src/main.rs

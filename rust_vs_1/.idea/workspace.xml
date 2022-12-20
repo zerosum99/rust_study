@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e593edf-7b37-42fb-85e1-652509cecbdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/rust_vs_1-fe87546b10298a22/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/rust_vs_1-fe87546b10298a22/output-bin-rust_vs_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/src/func_mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/src/func_mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.1bseo7r3pj5i48j9.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.1bseo7r3pj5i48j9.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.33zim75c8homod6v.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.33zim75c8homod6v.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.3v6dtuf5kijajvyb.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.3v6dtuf5kijajvyb.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.4y12qc3chfhxgfdi.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/deps/func_test-dad312d411c01428.4y12qc3chfhxgfdi.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/func_test" beforeDir="false" afterPath="$PROJECT_DIR$/../func_test/target/debug/func_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/1b7zyfexsey1quer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/1bseo7r3pj5i48j9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/1f24erj0zj6a7dqk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/2lmsk1fta7ufdwgp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/33zim75c8homod6v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/3r3h32e98h7uk9x6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/3v6dtuf5kijajvyb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/454icshn98vzx4qc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/4y12qc3chfhxgfdi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/4yci7zg7t7ms6btn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u-ica5a8n6bziv/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../func_test/target/debug/incremental/func_test-3k6yctwtanej2/s-gfuafrucq7-ul6c9u.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.rs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zucoh4p7" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IgMQsRdxPA4A0CMO6V7KNRJh60" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/a06411/Documents/GitHub/rust_study/rust_vs_1",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e593edf-7b37-42fb-85e1-652509cecbdc" name="Changes" comment="" />
+      <created>1670598759448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670598759448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

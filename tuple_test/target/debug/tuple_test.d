@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/tuple_test/target/debug/tuple_test: /Users/a06411/Documents/GitHub/rust_study/tuple_test/src/main.rs /Users/a06411/Documents/GitHub/rust_study/tuple_test/src/tuple_def.rs
