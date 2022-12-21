@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/movies_lib/target/debug/libmovies_lib.rlib: /Users/a06411/Documents/GitHub/rust_study/movies_lib/src/lib.rs /Users/a06411/Documents/GitHub/rust_study/movies_lib/src/movies.rs

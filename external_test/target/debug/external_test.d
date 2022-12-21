@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/external_test/target/debug/external_test: /Users/a06411/Documents/GitHub/rust_study/external_test/src/main.rs /Users/a06411/Documents/GitHub/rust_study/movies_lib/src/lib.rs /Users/a06411/Documents/GitHub/rust_study/movies_lib/src/movies.rs

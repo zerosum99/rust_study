@@ -1,10 +1,12 @@
 mod str_proc;
 mod string_proc;
+mod type_check;
 
 use crate::str_proc::*;
 use crate::string_proc::*;
+use crate::type_check::*;
 
-use std::any::type_name;
+
 
 fn main() {
     println!("Hello, world! slice test ");
@@ -58,7 +60,3 @@ fn rtn_borrow(s : &str) -> &str {
     s
 }
 
-// 타입을 출력하는 함수
-fn type_of<T>(_: T) -> &'static str {
-    type_name::<T>()
-}
