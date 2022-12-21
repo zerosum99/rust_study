@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/mod_sep/target/debug/mod_sep: /Users/a06411/Documents/GitHub/rust_study/mod_sep/src/front/hosting.rs /Users/a06411/Documents/GitHub/rust_study/mod_sep/src/front/mul.rs /Users/a06411/Documents/GitHub/rust_study/mod_sep/src/front.rs /Users/a06411/Documents/GitHub/rust_study/mod_sep/src/main.rs
