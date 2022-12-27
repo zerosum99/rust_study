@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/module_test/target/debug/module_test: /Users/a06411/Documents/GitHub/rust_study/module_test/src/main.rs /Users/a06411/Documents/GitHub/rust_study/module_test/src/movies/english/comedy.rs /Users/a06411/Documents/GitHub/rust_study/module_test/src/movies/english.rs /Users/a06411/Documents/GitHub/rust_study/module_test/src/movies.rs

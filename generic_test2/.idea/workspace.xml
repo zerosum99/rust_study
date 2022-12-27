@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d30aa5d-9caf-41e2-9996-c5f7ca4b7c74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic_test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfunc.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gstruct.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gtrait.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/generic_test2-aa09feef16fffd23/bin-generic_test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/generic_test2-aa09feef16fffd23/bin-generic_test2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/generic_test2-aa09feef16fffd23/dep-bin-generic_test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/generic_test2-aa09feef16fffd23/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.11cr5mtg87if3r4p.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.1jibqg65tgsgahcx.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.26qi1nbmq2do7ew1.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.28xf6tcqf2pkrj2g.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.2k1wroxj0w1ct6mz.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.2l9ai6g1wzlo07ln.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.38gdjnigpq08ikxr.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.38pmut7nx2j4m8ch.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.3h8bx2kf0pyn5qzi.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.3kdb5lax9mvmkj0a.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.4zh803zt2xhy24gf.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.50d209wudcfjh2bi.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.57689ff824u1slwb.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.5cnqlk5g7f4nc0xz.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.5drjj7te2uqyp8rr.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.bod554t3o0922mg.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.eshzx86j0sb7yx0.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.gnty9ssojulpzgz.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/generic_test2-aa09feef16fffd23.i8u0qcd0rorf2d9.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/generic_test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/generic_test2.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/module_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/src/movies.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/src/movies/english.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_test/src/movies/english/comedy.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/src/def_struct.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/src/def_trait.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trait_test2/trait_test2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod_sep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../mod_sep/src/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rsbk4a9u" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JQtBAjUgFcIeqhuPn7NOrbJvKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package generic_test2 --bin generic_test2" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d30aa5d-9caf-41e2-9996-c5f7ca4b7c74" name="Changes" comment="" />
+      <created>1672021998396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672021998396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

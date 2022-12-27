@@ -2,7 +2,7 @@
 
 pub mod front;
 // 다른 모듈로 분리될 경우 상위 모듈에 대한 사용을 지정해야함
-// use crate::front; 지정없이 사용가능하려면 front 모듈 내에서 pub use로 공개되는 모듈 등을 지정해야함 
+// use crate::front; 지정없이 사용가능하려면 front 모듈 내에서 pub use로 공개되는 모듈 등을 지정해야함
 
 fn main() {
     println!("Hello, world!");

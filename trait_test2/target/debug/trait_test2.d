@@ -1,0 +1,1 @@
+/Users/a06411/Documents/GitHub/rust_study/trait_test2/target/debug/trait_test2: /Users/a06411/Documents/GitHub/rust_study/trait_test2/src/def_struct.rs /Users/a06411/Documents/GitHub/rust_study/trait_test2/src/def_trait.rs /Users/a06411/Documents/GitHub/rust_study/trait_test2/src/main.rs
