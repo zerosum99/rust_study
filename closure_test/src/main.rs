@@ -1,3 +1,8 @@
+
+
+use typename::TypeName;                // 크레이트 typename도 추가
+
+
 fn main() {
     println!("Hello, closure test !");
 
@@ -13,6 +18,9 @@ fn main() {
 
     call_mytype();
     ref_();
+
+    println!("type {} ", a.type_name_of());  // 타입을 확인할 경우 사용
+
 }
 
 struct MyType;
@@ -50,4 +58,14 @@ fn ref_() {
     match y {
         ref mut mr => println!("Got a mutable reference to {:p}", mr),
     }
+
+
+    echo("가을이");
+    let _s = String::from("겨율이");
+    //echo(&s);  //타입 에러 ... 참조자
+    // echo(s.as_str());  lifetime을 명기한 경우 단순히 변환해서는 처리가 안됨
+}
+
+fn echo(s : &'static str) {   // 생애주기를
+    println!(" echo {}", s);
 }
