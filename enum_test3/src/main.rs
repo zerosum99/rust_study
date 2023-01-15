@@ -23,4 +23,10 @@ fn main() {
     println!(" isbn {} ", b1.get_isbn());
     // 비공개 메서드는 호출할 수 없을  println!(" format {:?} ", b1.get_format());
     println!(" format {:?} ", b1.format);
+
+    let ss = &String::from("abcd");
+    let as_ss = ss.as_bytes();
+    for (i,item) in as_ss.iter().enumerate() {
+        println!(" {} {}", i,item);
+    }
 }
