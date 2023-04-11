@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27e28aeb-d56f-4972-aade-a6346ab18f66" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231" beforeDir="false" afterPath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231.10smtyrho0mwcihe.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231.10smtyrho0mwcihe.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231.1fbee1hscwwncp4o.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../enum_test3/target/debug/deps/enum_test3-3d8c3a7cf1aa0231.1fbee1hscwwncp4o.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/enum_test3" beforeDir="false" afterPath="$PROJECT_DIR$/../enum_test3/target/debug/enum_test3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/10smtyrho0mwcihe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/193smfib73smkzai.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/19yh96saap4jqgv7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1fbee1hscwwncp4o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1lggvup858doxiul.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1ny92dvzn355xe92.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1r24mscm02l0682u.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1v9z9k0kx6gtyi8j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1yml7p9gilhjb22k.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/1zpdxocfn8a7ze36.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/23nh1o92dx2160g5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/2k2iesntymp8hhvw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/2t6jcr0f31ydvnfr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/30uszulywq20kbcj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/377ed3kvvptg5mhn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/39kl6baaz5ngojh7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/3c8dqnon21n45agg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/3he9dpr8wn55gj0e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/3kgdetkotqrgumdp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/3on5697flip3647h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/3thv8tpxgx0dra7v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/43up9hza4b73d6t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/4i0myb6f2hix4rcp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/4id4zt0mbf62cmmr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/4xpe2a1w9pm7yhbk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/beaggcpy5w834f8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm-1qjd54a7gb75q/ye43opcb5gttwoa.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum_test3/target/debug/incremental/enum_test3-3vboahpxypco4/s-ghb6tnqkqy-qjdmzm.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="lhpdnta6" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NUX3BsV4NgVSD5SKd84p53hSPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Elixir&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="func_test3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="func_test3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="27e28aeb-d56f-4972-aade-a6346ab18f66" name="변경" comment="" />
+      <created>1679719396554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679719396554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
