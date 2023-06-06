@@ -29,4 +29,16 @@ fn main() {
     for (i,item) in as_ss.iter().enumerate() {
         println!(" {} {}", i,item);
     }
+
+
+    let mut v = vec![1, 2, 3, 4, 5];
+    v.push(6);
+
+    let first = &v[0];
+    println!("first {}", first);
+
+    let mut i:i32 = 1;
+    let _ref_i = &mut i;
+    let _another_ref_i = &mut i;  // 가변 참조 빌려주기가 두 번 일어남
+    //             ^ second mutable borrow occurs here
 }
